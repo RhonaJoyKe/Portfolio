@@ -30,6 +30,7 @@ body{
     color: #3E4377;
     width:100px;
     text-align: center;
+padding-right: 25px;
 }
 li{
     display: inline;
