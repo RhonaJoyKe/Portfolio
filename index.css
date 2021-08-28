@@ -179,11 +179,21 @@ a{
     width:160px;
     height:120px;
     box-shadow:0px 0px 4px 3px grey; 
-    
     background-color: #F1F2F3;
     margin-right: 30px;
 }
 .sthree>img{
     width:160px;
     height:80px;
+}
+.sfour{
+    width:160px;
+    height:120px;
+    box-shadow:0px 0px 4px 3px grey; 
+    background-color: #F1F2F3;
+    margin-right: 30px;
+}
+.sfour>img{
+    width:160px;
+    height:80px; 
 }
