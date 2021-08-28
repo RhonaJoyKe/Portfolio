@@ -54,13 +54,23 @@ a{
 }  
 .section2{
     display:flex;
+  
 }
 .about1{
-
+    width:60%;
+    height:1200px;
+    box-shadow:0px 0px 4px 3px grey; 
+   
 }
 .about1>img{
-    box-shadow:0px 0px 4px 3px grey;
+   width:100%;
+   height:100%;
+   object-fit: cover;
+
+
 }
 .about2{
+    width:800px;
+    height:300px;
     box-shadow:0px 0px 4px 3px grey;
 }
