@@ -250,7 +250,7 @@ input[type=submit]{
 }
 .conimg>img{
     width:500px;
-    height: 400px;
+    height: 440px;
 }
 .conform{
     
@@ -270,4 +270,8 @@ form input{
     height:30px;
     border-radius: 15px;
     
+}
+input[type=textarea]{
+    height:80px;
+    border-radius: 0px;
 }
