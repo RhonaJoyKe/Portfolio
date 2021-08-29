@@ -104,8 +104,11 @@ a{
     box-shadow:0px 0px 4px 3px grey;
 
 }
+table td{
+    padding: 10px;
+}
 .Languages {
-    width:400px;
+    width:500px;
     box-shadow:0px 0px 4px 3px grey;
     height:250px;
 
