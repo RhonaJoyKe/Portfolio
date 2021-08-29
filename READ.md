@@ -1,5 +1,5 @@
 # portfolio-website
-Week two IP Project.
+Week one PREP IP Project.
 #### By RhonaJoy
 ## Description
 This is a web page displaying my portfolio. Education gained so far,projects done,skills and hobbies possessed so far and a section where any potential employer can contact me.
