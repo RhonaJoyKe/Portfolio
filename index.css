@@ -51,15 +51,10 @@ a{
     padding:20px;
 }
 
-.one>p{
-    text-align: center;
-    font-size: 30px;
-    color:#3E4377;
-    margin-left: 700px;
-}
+
 .two>p{
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     color:#3E4377;
 }  
 .section2{
@@ -255,21 +250,24 @@ input[type=submit]{
 }
 .conimg>img{
     width:500px;
-    height: 370px;
+    height: 400px;
 }
 .conform{
-    background-color: #3E4377;
-    height:250px;
+    
+    height:350px;
 }
+
 .conform>form{
     display: grid;
     width:50%;
     margin-left: 550px;
+    margin-top: -30px;
     
    
 }
 form input{
-    margin-top: 20px;
+    margin-bottom: 10px;
     height:30px;
     border-radius: 15px;
+    
 }
